@@ -46,3 +46,7 @@ PYTHONPATH=src python -m pytest -q
 - `src/transport_routes/handler.py` — загрузка, сохранение и вывод данных
 - `src/transport_routes/__main__.py` — команды терминала
 - `tests/test_transport_routes.py` — тесты
+
+## Порядок вывода
+
+iter выводит по возрастанию id
